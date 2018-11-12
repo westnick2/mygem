@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mathtestsuite (1.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mathtestsuite
+
+BUNDLED WITH
+   1.16.0
